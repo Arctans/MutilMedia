@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MutilMedia</string>
+    <string name="str_local">本地音乐</string>
+    <string name="str_recent">最近播放</string>
+    <string name="str_favorite">我喜欢的</string>
+    <string name="write_permission">必须先获取写权限</string>
+    <string name="file_not_exit_tip">不存在文件或者目录</string>
+</resources>
